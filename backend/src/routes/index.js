@@ -30,5 +30,4 @@ router.get("/", (req, res) =>
     note: "See README.md for local setup. This list is illustrative and not exhaustive.",
   })
 );
-
 module.exports = router;
